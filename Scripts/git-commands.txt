@@ -1,0 +1,20 @@
+478-784-019
+
+
+git clone git@github.com:careertuner22/pgp-aiml.git
+
+C:\work\repos\VS-1\pgp-aiml\Docs
+
+
+git pull
+
+git add --all
+git add pyprograms/me.py
+
+git status 
+
+git commit -m 'g'
+
+git push 
+
+
